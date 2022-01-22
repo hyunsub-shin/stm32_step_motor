@@ -1,0 +1,2 @@
+command.c:11:5:GetCommand	32	static
+command.c:76:5:MyStrNCmp	32	static

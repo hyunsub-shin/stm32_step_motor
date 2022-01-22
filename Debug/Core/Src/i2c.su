@@ -1,0 +1,10 @@
+i2c.c:31:6:MX_I2C1_Init	8	static
+i2c.c:60:6:MX_I2C2_Init	8	static
+i2c.c:89:6:HAL_I2C_MspInit	48	static
+i2c.c:139:6:HAL_I2C_MspDeInit	16	static
+i2c.c:185:10:read_tca1_reg	40	static
+i2c.c:197:10:write_tca1_reg	32	static
+i2c.c:207:10:read_tca2_reg	40	static
+i2c.c:219:10:write_tca2_reg	32	static
+i2c.c:229:10:read_eeprom	40	static
+i2c.c:241:10:write_eeprom	32	static

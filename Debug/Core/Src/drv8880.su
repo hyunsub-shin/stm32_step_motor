@@ -1,0 +1,5 @@
+drv8880.c:16:6:drv8880_init	16	static
+drv8880.c:49:6:drv8880_enable	8	static
+drv8880.c:57:6:drv8880_disable	8	static
+drv8880.c:65:6:drv8880_dir	16	static
+drv8880.c:77:6:drv8880_sleep	16	static
